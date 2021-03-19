@@ -1,0 +1,17 @@
+{
+  "name": "with-context-api",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "0.21.1",
+    "next": "latest",
+    "react": "^16.7.0",
+    "react-combine-reducers": "1.1.1",
+    "react-dom": "^16.7.0"
+  },
+  "license": "MIT"
+}
